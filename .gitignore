@@ -1,0 +1,5 @@
+.DS_Store
+._*
+*~
+tmp/class_path_cache.txt
+modules/coughphp-1.4

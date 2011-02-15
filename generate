@@ -1,0 +1,2 @@
+#!/bin/sh
+../coughphp-1.4-pistole/scripts/cough -v -g generator_config $@
